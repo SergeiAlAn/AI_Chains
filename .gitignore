@@ -1,0 +1,19 @@
+# Секреты
+.env
+.env.*
+!.env.example
+
+# Окружение и кэш
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Логи и локальные данные ботов (содержат ID пользователей Telegram)
+*.log
+*.db
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/

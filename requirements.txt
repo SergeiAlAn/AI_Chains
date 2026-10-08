@@ -1,0 +1,11 @@
+# Генератор (script.py)
+langchain>=0.3,<2
+langchain-core>=0.3,<2
+langchain-openai>=0.2,<2
+pydantic>=2.5
+python-dotenv>=1.0
+
+# Сгенерированные боты
+aiogram>=3.4,<4
+aiohttp>=3.9
+aiosqlite>=0.20
